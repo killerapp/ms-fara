@@ -187,3 +187,12 @@ ENV/
 env.bak/
 venv.bak/
 
+# Playwright
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+
+# Model checkpoints
+model_checkpoints/
